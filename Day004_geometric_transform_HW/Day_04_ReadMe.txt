@@ -1,14 +1,34 @@
-I'm not sure what is the function np.float32, and using.
+from cv2 import cv2
 
+#read the photo
+
+
+#Vertical and herizontal flip the photo
+
+
+#Resize the photo
+
+
+#you can enter a percitage number to resise the photo :)
+
+
+# width = int(img.shape[1] * pert / 100)
+
+
+#Affine function
+	#I'm not sure what is the function np.float32, and using.
 45.
 46.
 
-
-the sit of _.shape & cv2.circle() is in opp site. 
+	#the sit of _.shape & cv2.circle() is in opp site. 
 35.
 41.
 42.
 43.
+
+	#make sure the difference between getAffineTranslation() and  warpAffine()
+48.
+49.
 
 
 
